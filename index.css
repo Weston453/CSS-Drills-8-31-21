@@ -1,0 +1,32 @@
+.header{
+    height: 100px;
+    width: 100vw;
+    background-color: gray; 
+}
+
+.margin-right{
+    height: 100vw;
+    width: 100px;
+    float: right;
+    background-color: lightgray;
+}
+
+.margin-left{
+    height: 100vw;
+    width: 100px;
+    float: left;
+    background-color: lightgray;
+}
+
+.footer{
+    height: 50px;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+}
+
+#o-lap{
+    position: relative;
+    z-index: 2;
+}
